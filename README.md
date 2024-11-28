@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Deepak Rathore</h1>
 <h3 align="center">A passionate Mern Stack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=it-specialist-deepak&label=Profile%20views&color=0e75b6&style=flat" alt="it-specialist-deepak" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=it-specialist-deepak&label=Profile%20views&color=0e75b6&style=flat](https://tse2.mm.bing.net/th?id=OIP.mUahTQdRR4e4MJLLtJkjbwHaEU&pid=Api&P=0&h=180)" alt="it-specialist-deepak" /> </p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **React.js , Typescript **
 
-- 👨‍💻 All of my projects are available at [https://deepak-web-portfolio.onrender.com](https://deepak-web-portfolio.onrender.com)
+- 👨‍💻 Web-Portfolio [https://deepak-web-portfolio.onrender.com](https://deepak-web-portfolio.onrender.com)
 
 - 📫 How to reach me **hrmhnrathore@gmail.com**
 
-- 📄 Know about my experiences [file:///D:/Downloads%2016-6-2024%20(new)/deepak_final_resume2.0%20(1).pdf](file:///D:/Downloads%2016-6-2024%20(new)/deepak_final_resume2.0%20(1).pdf)
+- 📄 Resume [file:///D:/Downloads%2016-6-2024%20(new)/deepak_final_resume2.0%20(1).pdf](file:///D:/Downloads%2016-6-2024%20(new)/deepak_final_resume2.0%20(1).pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
