@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deepak Rathore</h1>
 <h3 align="center">A passionate Mern Stack developer</h3>
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=it-specialist-deepak&label=Profile%20views&color=0e75b6&style=flat](https://tse2.mm.bing.net/th?id=OIP.mUahTQdRR4e4MJLLtJkjbwHaEU&pid=Api&P=0&h=180)" alt="it-specialist-deepak" /> </p>
-
 - 🌱 I’m currently learning **React.js , Typescript **
 
 - 👨‍💻 Web-Portfolio [https://deepak-web-portfolio.onrender.com](https://deepak-web-portfolio.onrender.com)
