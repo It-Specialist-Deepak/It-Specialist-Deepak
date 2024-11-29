@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Deepak Rathore</h1>
 <h3 align="center">A passionate Mern Stack developer</h3>
 
-- 🌱 I’m currently learning **React.js , Typescript **
+- 🌱 I’m currently learning **React.js , Typescript
 
 - 👨‍💻 Web-Portfolio [https://deepak-web-portfolio.onrender.com](https://deepak-web-portfolio.onrender.com)
 
 - 📫 How to reach me **hrmhnrathore@gmail.com**
 
-- 📄 Resume [file:///D:/Downloads%2016-6-2024%20(new)/deepak_final_resume2.0%20(1).pdf](file:///D:/Downloads%2016-6-2024%20(new)/deepak_final_resume2.0%20(1).pdf)
+- 📄 Resume [Developer_Deepak](file:///D:/Downloads%2016-6-2024%20(new)/deepak_final_resume2.0%20(1).pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
